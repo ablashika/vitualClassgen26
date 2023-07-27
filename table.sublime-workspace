@@ -1,0 +1,492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"required\tAttr"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"get",
+				"getBody"
+			],
+			[
+				"ge",
+				"getBody"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"c",
+				"cal"
+			],
+			[
+				"n",
+				"nBMICal"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"pr",
+				"preventDefault"
+			],
+			[
+				"hig",
+				"high"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"re",
+				"restart"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"g",
+				"guessBox"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"fi",
+				"function"
+			],
+			[
+				"bt",
+				"btn1"
+			],
+			[
+				"b",
+				"btn"
+			],
+			[
+				"getElements",
+				"getElementsByTagName"
+			],
+			[
+				"en",
+				"engineSound"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"ima",
+				"imageChange"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"ch",
+				"changeImage"
+			],
+			[
+				"im",
+				"image2"
+			],
+			[
+				"p",
+				"para2"
+			],
+			[
+				"e",
+				"elemImg"
+			],
+			[
+				"getE",
+				"getElementsByTagName"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"f",
+				"fordTruck"
+			],
+			[
+				"ne",
+				"new"
+			],
+			[
+				"engin",
+				"engineSound"
+			],
+			[
+				"nw",
+				"newMachine"
+			],
+			[
+				"t",
+				"talk"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"engi",
+				"engineCapacity"
+			],
+			[
+				"a",
+				"addTwoNum"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"new",
+				"newRobot"
+			],
+			[
+				"v",
+				"volumeOfRec"
+			],
+			[
+				"ar",
+				"areaOfRec"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"su",
+				"sumOfTen"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"call",
+				"callName"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"nam",
+				"name2"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"C",
+				"cupOfWater"
+			],
+			[
+				"na",
+				"name1"
+			],
+			[
+				"img",
+				"img-fluid"
+			],
+			[
+				"tex",
+				"text-muted"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ablashika/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ablashika/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/ablashika/Desktop/my firstProject/tanles.html",
+		"/Users/ablashika/Desktop/fProject/index.html",
+		"/Users/ablashika/Desktop/fProject/tables.html",
+		"/Users/ablashika/Desktop/fProject/forms.html",
+		"/Users/ablashika/Desktop/fProject/secondpange.html",
+		"/Users/ablashika/Desktop/firstweb/website.html",
+		"/Users/ablashika/Desktop/firstweb/secondpage.html",
+		"/Users/ablashika/Desktop/bootstrap_prac/index.html",
+		"/Users/ablashika/Desktop/bootstrap_prac/css/styles.css",
+		"/Users/ablashika/Desktop/jsSat/index.css",
+		"/Users/ablashika/Desktop/jsSat/index.html",
+		"/Users/ablashika/Downloads/todo-app-main/images/icon-cross.svg",
+		"/Users/ablashika/Downloads/todo-app-main/images/icon-check.svg",
+		"/Users/ablashika/Desktop/js-prac/index.html",
+		"/Users/ablashika/Desktop/js_prac Virtual/index.html",
+		"/Users/ablashika/Desktop/todo-app/todo-app/node_modules/tough-cookie/lib/store.js",
+		"/Users/ablashika/Desktop/git practSat/index.html",
+		"/Users/ablashika/Desktop/git practice Sat/index.html",
+		"/Users/ablashika/Desktop/git pracV/index.html",
+		"/Users/ablashika/Desktop/git practice/index.html",
+		"/Users/ablashika/Downloads/advice-generator-app-main/images/pattern-divider-mobile.svg",
+		"/Users/ablashika/Desktop/bootstrapPracticeVirt/index.html",
+		"/Users/ablashika/Desktop/bootstrapPracticeVirt/css/styles.css",
+		"/Users/ablashika/Desktop/bootstrap_practiceS/index.html",
+		"/Users/ablashika/Desktop/bootstrap_practiceS/css/styles.css",
+		"/Users/ablashika/Desktop/bootstrap prac/index.html",
+		"/Users/ablashika/Desktop/bootstrap prac/css/styles.css",
+		"/Users/ablashika/Desktop/bootrstapPrac/index.html",
+		"/Users/ablashika/Desktop/bootrstapPrac/css/styles.css",
+		"/Users/ablashika/Desktop/gen24Sat/index.css",
+		"/Users/ablashika/Desktop/gen24Tues/index.html",
+		"/Users/ablashika/Desktop/gen24Tues/index.css",
+		"/Users/ablashika/Desktop/gen24Sat/index.html",
+		"/Users/ablashika/Desktop/cssproject/index.html"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "table.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

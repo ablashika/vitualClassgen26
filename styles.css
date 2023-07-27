@@ -1,0 +1,32 @@
+.navbar{
+    height: 10vh;
+    background-color: steelblue;
+}
+.hero-section{
+    height: 30vh;
+    background-color:steelblue ;
+    margin-top: 3vh;
+}
+
+.cards {
+    height: 30vh;
+    margin-top: 3vh;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.footer{
+    height: 20vh;
+    background-color:steelblue ;
+    margin-top: 3vh;
+}
+
+.cards > div {
+    height: 30vh;
+    width: 180px;
+    background-color:steelblue ;
+
+
+
+}
